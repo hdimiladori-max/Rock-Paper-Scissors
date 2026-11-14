@@ -109,7 +109,7 @@ pygame
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: https://github.com/hdimiladori-max
 
 ## 📄 License
 
