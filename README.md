@@ -48,7 +48,7 @@ The classic Rock Paper Scissors rules apply:
 ### 1. Clone the Repository
 
 ```bash
-git clone (https://github.com/hdimiladori-max)
+git clone https://github.com/hdimiladori-max
 ```
 
 ### 2. Navigate to the Project Folder
